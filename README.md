@@ -1,4 +1,4 @@
-# My First Web Page
+# Loruki -Easier Deployment Platform
 
 ## introduction
 
@@ -13,3 +13,6 @@ This project is a web page made using **HTML** and **CSS**
 
 + `index.html`: the main html file.
 + `style.css`: the custom css file for styling.
+
+### Author
+**sumeya**
