@@ -15,4 +15,5 @@ This project is a web page made using **HTML** and **CSS**
 + `style.css`: the custom css file for styling.
 
 ### Author
-**sumeya**
+- sumeya -
+[github](https://github.com/suumeya)
